@@ -1,0 +1,9 @@
+Êþº¾   3   )Saikarthik_CleanCode/Saikarthik_CleanCode/AppTest  java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this +LSaikarthik_CleanCode/Saikarthik_CleanCode/AppTest; shouldAnswerWithTrue RuntimeVisibleAnnotations Lorg/junit/Test;
+    org/junit/Assert   
+assertTrue (Z)V 
+SourceFile AppTest.java !               /     *· ±    
+       
+                            3     ¸ ±    
+   
+                        
